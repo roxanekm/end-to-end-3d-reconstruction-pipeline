@@ -37,5 +37,4 @@ OpenCV
 
 src/ modules pipeline  
 data/ inputs et outputs  
-tests/ tests unitaires  
 pipeline.py entry point
