@@ -16,15 +16,10 @@ venv_3d_pipeline/
 .DS_Store
 Thumbs.db
 
-data/frames/
-data/*.mp4
 data/*.avi
 data/*.mov
 
-data/global_cloud.ply
-data/clean_cloud.ply
-data/mesh.ply
-data/mesh.obj
+
 
 .cache/
 *.pth
