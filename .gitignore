@@ -20,8 +20,6 @@ data/*.mp4
 data/*.avi
 data/*.mov
 
-
-
 .cache/
 *.pth
 *.log
