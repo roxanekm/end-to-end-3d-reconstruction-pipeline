@@ -16,6 +16,7 @@ venv_3d_pipeline/
 .DS_Store
 Thumbs.db
 
+data/*.mp4
 data/*.avi
 data/*.mov
 
